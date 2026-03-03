@@ -18,6 +18,6 @@ int luaspersegi(){
 }
 
 void output(){
-    cout << "hasilnya = " << luasPersegi() << endl;
-    
+    cout << "hasilnya = " << luaspersegi() << endl;
+    cout << "terima kasih";
 }
