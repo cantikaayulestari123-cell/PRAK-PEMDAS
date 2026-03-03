@@ -13,6 +13,11 @@ void input() {
     cin>> l;
 }
 
-int luas persegi(){
+int luaspersegi(){
     return p * l;
+}
+
+void output(){
+    cout << "hasilnya = " << luasPersegi() << endl;
+    
 }
