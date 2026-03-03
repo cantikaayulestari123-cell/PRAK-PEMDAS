@@ -31,5 +31,11 @@ int main() { //mulai
 // library
 #include <iostream>
 using namespace std;
-// deklasrasi global
+// deklarasi global
 int p, l;
+
+// Implementasi Prosedur dan Fungsi
+void input() {
+    cout << "Masukkan panjang = ";
+    cin >> p;
+}
