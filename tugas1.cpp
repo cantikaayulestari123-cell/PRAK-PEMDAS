@@ -12,3 +12,7 @@ void input() {
     cout << "Masukkan lebar = ";
     cin>> l;
 }
+
+int luas persegi(){
+    return p * l;
+}
