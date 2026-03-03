@@ -61,3 +61,6 @@ int main() { //mulai
     cout << "hasil penjumlahan= " << jumlah(15.1, 24.9, 67);
  //selesai   
 }
+
+#include<iostream>
+using namespace std;
