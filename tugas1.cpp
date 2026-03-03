@@ -27,3 +27,7 @@ int main() { //mulai
     output();
     //selesai
 }
+
+// library
+#include <iostream>
+using namespace std;
