@@ -72,3 +72,9 @@ void awal(){
     cout << "masukkan jarijari lingkaran: ";
     cin >> jarijari;
 }
+loat luas (float jarijari, float phi){
+    return phi*jarijari*jarijari;
+}
+void akhir (){
+    cout << "hasil luas untuk lingkaran dengan jarijari" <<jarijari<<"adalah:" << luas(jarijari,phi);
+}    
