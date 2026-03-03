@@ -25,4 +25,5 @@ void output(){
 int main() { //mulai
     input();
     output();
+    //selesai
 }
