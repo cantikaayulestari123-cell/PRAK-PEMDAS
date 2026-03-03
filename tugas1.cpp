@@ -41,3 +41,7 @@ void input() {
     cout << "Masukkan lebar = ";
     cin >> l;
 }
+
+float jumlah(float a, float b, float c){
+    return a + b + c;
+}
