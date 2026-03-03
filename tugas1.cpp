@@ -31,3 +31,5 @@ int main() { //mulai
 // library
 #include <iostream>
 using namespace std;
+// deklasrasi global
+int p, l;
